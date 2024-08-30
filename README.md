@@ -6,7 +6,7 @@
 - Naver Cloud Platform(Server, VPC, LB)을 활용하여, 최종적으로 웹게임으로 호스팅 하는 것이 목표입니다.
 
 ## > Demo version vidio
-[![Video Label](http://img.youtube.com/vi/amAbttD83Kw/0.jpg)]([https://youtu.be/59USvjy2toI](https://youtu.be/amAbttD83Kw))
+[![JunmperDemovid](http://img.youtube.com/vi/amAbttD83Kw/0.jpg)](https://www.youtube.com/watch?v=amAbttD83Kw?t=0s) 
 
 ## > Technology
 ///////
